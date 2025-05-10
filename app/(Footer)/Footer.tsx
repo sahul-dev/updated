@@ -24,7 +24,7 @@ function Footer() {
               <span className=" text-[15px] ml-[6px]">Youtube</span>
             </a>
             <a
-              href="https://github.com/HyatMyat4"
+              href="https://github.com/sahul-dev"
               className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer "
             >
               <svg
@@ -56,7 +56,7 @@ function Footer() {
           <div className="min-w-[200px]  h-auto flex flex-col  items-center 630:items-start justify-start">
             <div className=" font-bold text-[16px]">Social Media</div>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/sahul.dev_"
               className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer "
             >
               <svg
@@ -88,7 +88,7 @@ function Footer() {
               <span className=" text-[15px] ml-[6px]">Twitter</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/htet-myat-14089322a/"
+              href="https://www.linkedin.com/in/sahul-hameed-82ab05363/"
               className=" flex flex-row items-center my-[15px] hover:underline cursor-pointer "
             >
               <svg
@@ -127,14 +127,14 @@ function Footer() {
                 href="mailto:hyatmyat79@gmail.com"
                 className=" text-[15px] hover:underline "
               >
-                hyatmyat79@gmail.com
+                sahul.dev@outlook.com
               </a>
             </div>
           </div>
         </div>
 
         <div className="mb-[20px] text-[15px] text-center  ">
-          &copy; Htet Myat 2023 Inc. All rights reserved.
+          &copy; Sahul Hameed Inc. All rights reserved.
         </div>
       </div>
     </div>

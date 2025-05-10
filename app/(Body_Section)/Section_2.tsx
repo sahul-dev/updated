@@ -23,35 +23,29 @@ function Section_2() {
             id="Wecom-text"
             className=" text-[12px] 310:text-[14px] 370:text-auto"
           >
-            Joiner Full Stack Software Engineer
+            Software Engineer
           </div>
         </motion.div>
         <div className="  w-auto h-auto  animate-slideleftT2 mt-[24px] text-white  ">
           <span className=" text-[40px] 400:text-[50px]  800:text-[57px] font-bold align-top ">
-            Providing{" "}
+            Welcome{" "}
             <span className=" text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              the best
+              to the
             </span>{" "}
           </span>
           <span className=" translate-y-[-20px]  animate-slideleftT2 text-[40px] 400:text-[50px]  800:text-[57px] font-bold   align-top ">
-            Project experience
+            Sahul Hameed's Portfolio
           </span>
         </div>
         <p className=" animate-slideleftT3 text-[16px] 400:text-[19px] text-slate-400 mb-[20px]  ">
-          All the best and most modern resources at your fingertips. Access
-          online
-          {/*--->a*/}
-          <a className="Home_a ">Website</a>,{/*--->a*/}
-          <a className="Home_a">Mobile</a>,{/*--->a*/}
-          <a className="Home_a">Software</a>, coding examples, tutorials and
-          much more. All in one place
+           Dedicated and self-driven programmer passionate about backend development and software engineering. With a solid foundation in Python, I specialize in Data Structures & Algorithms, and I'm actively expanding my skills in Java, Spring Boot, SQL, and REST API development.
         </p>
         <a
           href="#Section_4"
           id="button-primary"
           className=" animate-slideleftT4 px-[20px] py-[7px] text-white  cursor-pointer hover:scale-105 active:scale-90  transition-all   duration-150 select-none rounded-[5px]"
         >
-          Start learing Now!
+          Contact me!
         </a>
       </div>
       <div className=" w-[50%] h-full hidden 1140:flex flex-row items-center  select-none justify-between ">
